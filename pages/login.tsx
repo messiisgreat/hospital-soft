@@ -127,7 +127,7 @@ const UserLogin: React.FC<UserLoginProps> = () => {
 						<small className="text-secondary mt-2">* - required</small>
 						<div className="text-secondary mt-2 text-center">
 							<small>
-								Need an account?
+								Need An Account?
 								<Link href={Links.App.signup}>
 									<a className="text-decoration-none fw-bold">
 										&nbsp;Sign Up&nbsp;
