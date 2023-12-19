@@ -8,7 +8,7 @@ const Recover: React.FC<RecoverProps> = () => {
 			<Head>
 				<title>Recover | Quick Hospitalization</title>
 			</Head>
-			<main className="container">Please design me</main>
+			<main className="container">Please Design Me</main>
 		</>
 	)
 }
