@@ -63,7 +63,7 @@ const Error = () => {
 			}
 		)
 		gsap.to("#circlesSmall circle", {
-			y: -4,
+			y: -5,
 			yoyo: true,
 			duration: 1,
 			ease: "sine.inOut",
