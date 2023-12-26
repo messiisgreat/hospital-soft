@@ -18,7 +18,7 @@ const Contact: React.FC<ContactProps> = () => {
 						<input type="text" className="form-control" id="Text" />
 					</div>
 
-					<div className="mb-3">
+					<div className="mb-4">
 						<label htmlFor="Email" className="form-label">
 							Email
 						</label>
