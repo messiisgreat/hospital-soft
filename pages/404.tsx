@@ -63,7 +63,7 @@ const Error = () => {
 			}
 		)
 		gsap.to("#circlesSmall circle", {
-			y: -5,
+			y: -4,
 			yoyo: true,
 			duration: 1,
 			ease: "sine.inOut",
@@ -165,7 +165,7 @@ const Error = () => {
 
 									<path
 										id="ringShadow"
-										opacity="0.5"
+										opacity="0.7"
 										fill="none"
 										stroke="#0E0620"
 										strokeWidth="3"
