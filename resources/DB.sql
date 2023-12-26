@@ -1,5 +1,6 @@
 DROP DATABASE IF EXISTS `project_quick_hospitalization`;
 
+
 CREATE DATABASE `project_quick_hospitalization`;
 
 
