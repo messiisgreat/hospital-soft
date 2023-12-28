@@ -23,7 +23,7 @@ import { UserContext } from "@contexts/user"
 
 export interface UserSignupProps {}
 
-const UserSignup: React.FC<UserSignupProps> = () => {
+const UserSignup: React.FC<UserSignupProps > = () => {
 	let current_fs: JQuery<HTMLElement>,
 		next_fs: JQuery<HTMLElement>,
 		previous_fs: JQuery<HTMLElement>,
