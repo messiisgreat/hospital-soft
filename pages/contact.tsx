@@ -1,6 +1,6 @@
 import Head from "next/head"
 
-export interface ContactProps {}
+export interface ContactProps { }
 
 const Contact: React.FC<ContactProps> = () => {
 	return (
