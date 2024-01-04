@@ -43,7 +43,7 @@ const UserSignup: React.FC<UserSignupProps> = () => {
 				body: JSON.stringify({
 					step: "user email",
 					data: {
-						email: $("#email").val(),
+						email: $("#email").val(''),
 					},
 				}),
 				redirect: "follow",
