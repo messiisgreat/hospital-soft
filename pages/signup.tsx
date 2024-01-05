@@ -13,6 +13,7 @@ import { sendOTP } from "@functionalities/emailManager"
 import Link from "next/link"
 import ImageCapture from "react-image-data-capture"
 
+
 import ReactCrop from "react-image-crop"
 import "react-image-crop/dist/ReactCrop.css"
 import { Toast } from "@functionalities/toast"
