@@ -11,7 +11,6 @@ import {
 import $ from "jquery"
 import { sendOTP } from "@functionalities/emailManager"
 import Link from "next/link"
-
 import ImageCapture from "react-image-data-capture"
 
 import ReactCrop from "react-image-crop"
